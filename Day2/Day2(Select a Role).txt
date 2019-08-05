@@ -1,0 +1,4 @@
+장준하 : 수집한 데이터를 사용한 기계학습 Training Data
+강필중 : 서버 구축 및 디자인 Homepage Design
+강형진 : Github 서버 관리 및 데이터 통합 Github, Climatic Data
+홍승재 : 기상청, 농산물유통 서버에서 데이터 수집 Product Price Data, Climatic Data
