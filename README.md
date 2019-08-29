@@ -8,3 +8,6 @@ https://www.kamis.or.kr/customer/price/wholesale/item.do
 
 -기후정보 : 기상청
 http://www.weather.go.kr/weather/climate/past_cal.jsp?stn=108&yy=2010&mm=1&obs=1&x=18&y=10
+
+
+기후, 농산물 가격 데이터는 2009~2018년까지 수집하고 테스트는 2019년도 자료로 시행한다
